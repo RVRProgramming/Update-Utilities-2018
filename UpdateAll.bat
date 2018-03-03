@@ -1,2 +1,3 @@
-UpdatePyFRC
-UpdateRobotPy-CTRE
+call UpdatePyFRC
+call UpdateRobotPy-CTRE
+pause
