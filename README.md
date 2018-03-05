@@ -14,4 +14,4 @@ The default packages are explained here:
 2. UpdatePyFRC: Updates/installs the PyFRC python libraries.
 3. UpdateRobotPy-CTRE: Updates/installs the RobotPy-CTRE python libraries.
 
-Special thanks to the guy who authored [this StackOverflow answer](https://stackoverflow.com/a/12264592) for the UAC admin permissions code.
+Special thanks to the user who authored [this StackOverflow answer](https://stackoverflow.com/a/12264592) for the UAC admin permissions code. We make no claim as to the ownership of the aforementioned user's code and all use of our code must comply not only with our licence, but also with any licence provided by this user.
