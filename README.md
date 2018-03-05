@@ -12,6 +12,9 @@ To run the code, run the RunMeToUpdate.bat file and allow admin permissions when
 Installer packages are just batch files with command line in them.
 
 The default packages are explained here:
+
   ExamplePackage: Echoes (prints) some text that says its an example.
+  
   UpdatePyFRC: Updates/installs the PyFRC python libraries.
+  
   UpdateRobotPy-CTRE: Updates/installs the RobotPy-CTRE python libraries.
